@@ -1,0 +1,13 @@
+Eric	password	0
+anand	test	2
+kramnik	test
+........
+......P.
+.....P..
+.....p.k
+....K..p
+........
+........
+........
+10000/
+Max	password	0
